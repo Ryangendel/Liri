@@ -18,8 +18,9 @@
   },
   "homepage": "https://github.com/Ryangendel/Liri#readme",
   "dependencies": {
-    "node-spotify-api": "^1.0.5",
+    "node-spotify-api": "^1.0.6",
     "request": "^2.81.0",
+    "spotify-web-api-js": "^0.22.0",
     "twitter": "^1.7.1"
   }
 }
